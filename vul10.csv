@@ -1,0 +1,251 @@
+NAICS,Definition,State,Vulnerable Employment,Total Employment,Vulnerable Ratio,Definition
+72,Accommodation and Food Services,Alabama,365840,1943760,0.188,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Alabama,321920,1943760,0.166,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Alabama,269740,1943760,0.139,Retail Trade
+31,Manufacturing,Alabama,220290,1943760,0.113,Manufacturing
+23,Construction,Alabama,201710,1943760,0.104,Construction
+72,Accommodation and Food Services,Alaska,57970,315250,0.184,Accommodation and Food Services
+44,Retail Trade,Alaska,27150,315250,0.086,Retail Trade
+48,Transportation and Warehousing,Alaska,26180,315250,0.083,Transportation and Warehousing
+23,Construction,Alaska,25510,315250,0.081,Construction
+62,Health Care and Social Assistance,Alaska,18950,315250,0.060,Health Care and Social Assistance
+72,Accommodation and Food Services,Arizona,633090,2789520,0.227,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Arizona,452720,2789520,0.162,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Arizona,348500,2789520,0.125,Construction
+44,Retail Trade,Arizona,323870,2789520,0.116,Retail Trade
+62,Health Care and Social Assistance,Arizona,166870,2789520,0.060,Health Care and Social Assistance
+72,Accommodation and Food Services,Arkansas,197410,1210120,0.163,Accommodation and Food Services
+31,Manufacturing,Arkansas,167630,1210120,0.139,Manufacturing
+56,Administrative and Support and Waste Management and Remediation Services,Arkansas,139500,1210120,0.115,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Arkansas,137270,1210120,0.113,Retail Trade
+23,Construction,Arkansas,113100,1210120,0.093,Construction
+72,Accommodation and Food Services,California,3633820,17007690,0.214,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,California,2754040,17007690,0.162,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,California,1931870,17007690,0.114,Retail Trade
+23,Construction,California,1867190,17007690,0.110,Construction
+31,Manufacturing,California,952700,17007690,0.056,Manufacturing
+72,Accommodation and Food Services,Colorado,564820,2620640,0.216,Accommodation and Food Services
+23,Construction,Colorado,351920,2620640,0.134,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Colorado,339720,2620640,0.130,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Colorado,261620,2620640,0.100,Retail Trade
+62,Health Care and Social Assistance,Colorado,146770,2620640,0.056,Health Care and Social Assistance
+72,Accommodation and Food Services,Connecticut,314230,1660200,0.189,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Connecticut,206640,1660200,0.124,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Connecticut,197940,1660200,0.119,Retail Trade
+23,Construction,Connecticut,125400,1660200,0.076,Construction
+62,Health Care and Social Assistance,Connecticut,118290,1660200,0.071,Health Care and Social Assistance
+72,Accommodation and Food Services,Delaware,87320,448510,0.195,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Delaware,67020,448510,0.149,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Delaware,60270,448510,0.134,Retail Trade
+23,Construction,Delaware,40920,448510,0.091,Construction
+31,Manufacturing,Delaware,28600,448510,0.064,Manufacturing
+72,Accommodation and Food Services,Florida,2192700,8608660,0.255,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Florida,1596700,8608660,0.185,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Florida,1232110,8608660,0.143,Construction
+44,Retail Trade,Florida,1211360,8608660,0.141,Retail Trade
+62,Health Care and Social Assistance,Florida,621850,8608660,0.072,Health Care and Social Assistance
+72,Accommodation and Food Services,Georgia,904770,4394740,0.206,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Georgia,765020,4394740,0.174,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Georgia,513400,4394740,0.117,Retail Trade
+23,Construction,Georgia,415000,4394740,0.094,Construction
+31,Manufacturing,Georgia,402670,4394740,0.092,Manufacturing
+72,Accommodation and Food Services,Idaho,149900,706140,0.212,Accommodation and Food Services
+23,Construction,Idaho,96310,706140,0.136,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Idaho,92680,706140,0.131,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Idaho,91520,706140,0.130,Retail Trade
+31,Manufacturing,Idaho,55910,706140,0.079,Manufacturing
+56,Administrative and Support and Waste Management and Remediation Services,Illinois,1090060,5991270,0.182,Administrative and Support and Waste Management and Remediation Services
+72,Accommodation and Food Services,Illinois,1028590,5991270,0.172,Accommodation and Food Services
+44,Retail Trade,Illinois,629920,5991270,0.105,Retail Trade
+23,Construction,Illinois,457410,5991270,0.076,Construction
+31,Manufacturing,Illinois,431750,5991270,0.072,Manufacturing
+72,Accommodation and Food Services,Indiana,510900,3048100,0.168,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Indiana,449700,3048100,0.148,Administrative and Support and Waste Management and Remediation Services
+31,Manufacturing,Indiana,347960,3048100,0.114,Manufacturing
+44,Retail Trade,Indiana,330800,3048100,0.109,Retail Trade
+23,Construction,Indiana,319740,3048100,0.105,Construction
+72,Accommodation and Food Services,Iowa,251540,1541700,0.163,Accommodation and Food Services
+31,Manufacturing,Iowa,212510,1541700,0.138,Manufacturing
+44,Retail Trade,Iowa,208970,1541700,0.136,Retail Trade
+23,Construction,Iowa,186310,1541700,0.121,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Iowa,150100,1541700,0.097,Administrative and Support and Waste Management and Remediation Services
+72,Accommodation and Food Services,Kansas,220460,1375380,0.160,Accommodation and Food Services
+44,Retail Trade,Kansas,159660,1375380,0.116,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Kansas,148770,1375380,0.108,Administrative and Support and Waste Management and Remediation Services
+31,Manufacturing,Kansas,146340,1375380,0.106,Manufacturing
+23,Construction,Kansas,124190,1375380,0.090,Construction
+72,Accommodation and Food Services,Kentucky,310150,1889870,0.164,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Kentucky,266750,1889870,0.141,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Kentucky,234260,1889870,0.124,Retail Trade
+31,Manufacturing,Kentucky,187740,1889870,0.099,Manufacturing
+23,Construction,Kentucky,171220,1889870,0.091,Construction
+72,Accommodation and Food Services,Louisiana,500720,1913770,0.262,Accommodation and Food Services
+23,Construction,Louisiana,276030,1913770,0.144,Construction
+44,Retail Trade,Louisiana,270110,1913770,0.141,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Louisiana,227980,1913770,0.119,Administrative and Support and Waste Management and Remediation Services
+62,Health Care and Social Assistance,Louisiana,131180,1913770,0.069,Health Care and Social Assistance
+72,Accommodation and Food Services,Maine,123950,605550,0.205,Accommodation and Food Services
+44,Retail Trade,Maine,87350,605550,0.144,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Maine,62010,605550,0.102,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Maine,54510,605550,0.090,Construction
+62,Health Care and Social Assistance,Maine,46280,605550,0.076,Health Care and Social Assistance
+72,Accommodation and Food Services,Maryland,515580,2684010,0.192,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Maryland,369600,2684010,0.138,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Maryland,333590,2684010,0.124,Construction
+44,Retail Trade,Maryland,332700,2684010,0.124,Retail Trade
+62,Health Care and Social Assistance,Maryland,176700,2684010,0.066,Health Care and Social Assistance
+72,Accommodation and Food Services,Massachusetts,660470,3571360,0.185,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Massachusetts,432700,3571360,0.121,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Massachusetts,392420,3571360,0.110,Retail Trade
+23,Construction,Massachusetts,315930,3571360,0.088,Construction
+62,Health Care and Social Assistance,Massachusetts,223100,3571360,0.062,Health Care and Social Assistance
+72,Accommodation and Food Services,Michigan,781410,4317830,0.181,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Michigan,648810,4317830,0.150,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Michigan,500520,4317830,0.116,Retail Trade
+33,Manufacturing,Michigan,385050,4317830,0.089,Manufacturing
+31,Manufacturing,Michigan,374440,4317830,0.087,Manufacturing
+72,Accommodation and Food Services,Minnesota,456680,2867700,0.159,Accommodation and Food Services
+44,Retail Trade,Minnesota,322710,2867700,0.113,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Minnesota,283730,2867700,0.099,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Minnesota,246780,2867700,0.086,Construction
+31,Manufacturing,Minnesota,225430,2867700,0.079,Manufacturing
+72,Accommodation and Food Services,Mississippi,296250,1123830,0.264,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Mississippi,157870,1123830,0.140,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Mississippi,153600,1123830,0.137,Retail Trade
+31,Manufacturing,Mississippi,125930,1123830,0.112,Manufacturing
+23,Construction,Mississippi,100250,1123830,0.089,Construction
+72,Accommodation and Food Services,Missouri,519050,2804780,0.185,Accommodation and Food Services
+44,Retail Trade,Missouri,345270,2804780,0.123,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Missouri,338670,2804780,0.121,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Missouri,260220,2804780,0.093,Construction
+31,Manufacturing,Missouri,222280,2804780,0.079,Manufacturing
+72,Accommodation and Food Services,Montana,114960,463280,0.248,Accommodation and Food Services
+44,Retail Trade,Montana,65280,463280,0.141,Retail Trade
+23,Construction,Montana,56240,463280,0.121,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Montana,37600,463280,0.081,Administrative and Support and Waste Management and Remediation Services
+62,Health Care and Social Assistance,Montana,28140,463280,0.061,Health Care and Social Assistance
+72,Accommodation and Food Services,Nebraska,146440,978290,0.150,Accommodation and Food Services
+31,Manufacturing,Nebraska,119420,978290,0.122,Manufacturing
+44,Retail Trade,Nebraska,110870,978290,0.113,Retail Trade
+23,Construction,Nebraska,104230,978290,0.107,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Nebraska,103890,978290,0.106,Administrative and Support and Waste Management and Remediation Services
+72,Accommodation and Food Services,Nevada,685590,1347130,0.509,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Nevada,260740,1347130,0.194,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Nevada,189720,1347130,0.141,Construction
+44,Retail Trade,Nevada,148140,1347130,0.110,Retail Trade
+48,Transportation and Warehousing,Nevada,79450,1347130,0.059,Transportation and Warehousing
+72,Accommodation and Food Services,New Hampshire,131190,652920,0.201,Accommodation and Food Services
+44,Retail Trade,New Hampshire,90720,652920,0.139,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,New Hampshire,64270,652920,0.098,Administrative and Support and Waste Management and Remediation Services
+23,Construction,New Hampshire,53260,652920,0.082,Construction
+62,Health Care and Social Assistance,New Hampshire,40960,652920,0.063,Health Care and Social Assistance
+56,Administrative and Support and Waste Management and Remediation Services,New Jersey,723600,4050170,0.179,Administrative and Support and Waste Management and Remediation Services
+72,Accommodation and Food Services,New Jersey,721980,4050170,0.178,Accommodation and Food Services
+44,Retail Trade,New Jersey,511500,4050170,0.126,Retail Trade
+62,Health Care and Social Assistance,New Jersey,318240,4050170,0.079,Health Care and Social Assistance
+23,Construction,New Jersey,302240,4050170,0.075,Construction
+72,Accommodation and Food Services,New Mexico,191490,811680,0.236,Accommodation and Food Services
+23,Construction,New Mexico,107020,811680,0.132,Construction
+56,Administrative and Support and Waste Management and Remediation Services,New Mexico,96640,811680,0.119,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,New Mexico,95610,811680,0.118,Retail Trade
+62,Health Care and Social Assistance,New Mexico,48790,811680,0.060,Health Care and Social Assistance
+72,Accommodation and Food Services,New York,1676850,9385620,0.179,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,New York,1162000,9385620,0.124,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,New York,981360,9385620,0.105,Retail Trade
+23,Construction,New York,858320,9385620,0.091,Construction
+62,Health Care and Social Assistance,New York,816740,9385620,0.087,Health Care and Social Assistance
+72,Accommodation and Food Services,North Carolina,885640,4383210,0.202,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,North Carolina,695600,4383210,0.159,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,North Carolina,558940,4383210,0.128,Retail Trade
+23,Construction,North Carolina,506240,4383210,0.115,Construction
+31,Manufacturing,North Carolina,443220,4383210,0.101,Manufacturing
+72,Accommodation and Food Services,North Dakota,68620,416550,0.165,Accommodation and Food Services
+23,Construction,North Dakota,60520,416550,0.145,Construction
+44,Retail Trade,North Dakota,46310,416550,0.111,Retail Trade
+21,"Mining, Quarrying, and Oil and Gas Extraction",North Dakota,35210,416550,0.085,"Mining, Quarrying, and Oil and Gas Extraction"
+42,Wholesale Trade,North Dakota,31650,416550,0.076,Wholesale Trade
+72,Accommodation and Food Services,Ohio,964930,5416810,0.178,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Ohio,732220,5416810,0.135,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Ohio,614060,5416810,0.113,Retail Trade
+23,Construction,Ohio,508380,5416810,0.094,Construction
+31,Manufacturing,Ohio,490350,5416810,0.091,Manufacturing
+72,Accommodation and Food Services,Oklahoma,331350,1594370,0.208,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Oklahoma,200950,1594370,0.126,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Oklahoma,190350,1594370,0.119,Retail Trade
+23,Construction,Oklahoma,167930,1594370,0.105,Construction
+31,Manufacturing,Oklahoma,96340,1594370,0.060,Manufacturing
+72,Accommodation and Food Services,Oregon,355150,1886090,0.188,Accommodation and Food Services
+44,Retail Trade,Oregon,227040,1886090,0.120,Retail Trade
+23,Construction,Oregon,216840,1886090,0.115,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Oregon,208750,1886090,0.111,Administrative and Support and Waste Management and Remediation Services
+31,Manufacturing,Oregon,142820,1886090,0.076,Manufacturing
+72,Accommodation and Food Services,Pennsylvania,956030,5847690,0.163,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Pennsylvania,777660,5847690,0.133,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Pennsylvania,720440,5847690,0.123,Retail Trade
+23,Construction,Pennsylvania,547850,5847690,0.094,Construction
+62,Health Care and Social Assistance,Pennsylvania,478610,5847690,0.082,Health Care and Social Assistance
+72,Accommodation and Food Services,Rhode Island,106080,482030,0.220,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Rhode Island,62390,482030,0.129,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Rhode Island,53490,482030,0.111,Retail Trade
+23,Construction,Rhode Island,35740,482030,0.074,Construction
+62,Health Care and Social Assistance,Rhode Island,33470,482030,0.069,Health Care and Social Assistance
+72,Accommodation and Food Services,South Carolina,448060,2062280,0.217,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,South Carolina,401390,2062280,0.195,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,South Carolina,284630,2062280,0.138,Retail Trade
+23,Construction,South Carolina,224780,2062280,0.109,Construction
+31,Manufacturing,South Carolina,190110,2062280,0.092,Manufacturing
+72,Accommodation and Food Services,South Dakota,89660,422310,0.212,Accommodation and Food Services
+44,Retail Trade,South Dakota,54290,422310,0.129,Retail Trade
+23,Construction,South Dakota,47540,422310,0.113,Construction
+31,Manufacturing,South Dakota,42680,422310,0.101,Manufacturing
+62,Health Care and Social Assistance,South Dakota,38710,422310,0.092,Health Care and Social Assistance
+72,Accommodation and Food Services,Tennessee,675640,2956920,0.228,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Tennessee,515780,2956920,0.174,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Tennessee,362470,2956920,0.123,Retail Trade
+23,Construction,Tennessee,268860,2956920,0.091,Construction
+31,Manufacturing,Tennessee,241770,2956920,0.082,Manufacturing
+72,Accommodation and Food Services,Texas,2414520,12113810,0.199,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Texas,1868990,12113810,0.154,Administrative and Support and Waste Management and Remediation Services
+23,Construction,Texas,1671510,12113810,0.138,Construction
+44,Retail Trade,Texas,1532410,12113810,0.127,Retail Trade
+48,Transportation and Warehousing,Texas,771240,12113810,0.064,Transportation and Warehousing
+23,Construction,Utah,230530,1455910,0.158,Construction
+72,Accommodation and Food Services,Utah,215300,1455910,0.148,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Utah,190410,1455910,0.131,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Utah,161900,1455910,0.111,Retail Trade
+31,Manufacturing,Utah,87810,1455910,0.060,Manufacturing
+72,Accommodation and Food Services,Vermont,58030,305210,0.190,Accommodation and Food Services
+44,Retail Trade,Vermont,44570,305210,0.146,Retail Trade
+23,Construction,Vermont,25890,305210,0.085,Construction
+56,Administrative and Support and Waste Management and Remediation Services,Vermont,18520,305210,0.061,Administrative and Support and Waste Management and Remediation Services
+31,Manufacturing,Vermont,18050,305210,0.059,Manufacturing
+72,Accommodation and Food Services,Virgin Islands,7800,32290,0.242,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Virgin Islands,4740,32290,0.147,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Virgin Islands,3490,32290,0.108,Retail Trade
+23,Construction,Virgin Islands,2740,32290,0.085,Construction
+61,Educational Services,Virgin Islands,1170,32290,0.036,Educational Services
+72,Accommodation and Food Services,Virginia,769700,3832840,0.201,Accommodation and Food Services
+56,Administrative and Support and Waste Management and Remediation Services,Virginia,554690,3832840,0.145,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Virginia,452610,3832840,0.118,Retail Trade
+23,Construction,Virginia,433790,3832840,0.113,Construction
+62,Health Care and Social Assistance,Virginia,213730,3832840,0.056,Health Care and Social Assistance
+72,Accommodation and Food Services,Washington,576730,3259150,0.177,Accommodation and Food Services
+23,Construction,Washington,460520,3259150,0.141,Construction
+44,Retail Trade,Washington,373380,3259150,0.115,Retail Trade
+56,Administrative and Support and Waste Management and Remediation Services,Washington,350420,3259150,0.108,Administrative and Support and Waste Management and Remediation Services
+62,Health Care and Social Assistance,Washington,222290,3259150,0.068,Health Care and Social Assistance
+72,Accommodation and Food Services,West Virginia,115760,696620,0.166,Accommodation and Food Services
+44,Retail Trade,West Virginia,90080,696620,0.129,Retail Trade
+23,Construction,West Virginia,89940,696620,0.129,Construction
+56,Administrative and Support and Waste Management and Remediation Services,West Virginia,74640,696620,0.107,Administrative and Support and Waste Management and Remediation Services
+62,Health Care and Social Assistance,West Virginia,63180,696620,0.091,Health Care and Social Assistance
+72,Accommodation and Food Services,Wisconsin,504870,2848560,0.177,Accommodation and Food Services
+31,Manufacturing,Wisconsin,374160,2848560,0.131,Manufacturing
+56,Administrative and Support and Waste Management and Remediation Services,Wisconsin,344570,2848560,0.121,Administrative and Support and Waste Management and Remediation Services
+44,Retail Trade,Wisconsin,333950,2848560,0.117,Retail Trade
+23,Construction,Wisconsin,281360,2848560,0.099,Construction
+72,Accommodation and Food Services,Wyoming,67470,269320,0.251,Accommodation and Food Services
+23,Construction,Wyoming,43900,269320,0.163,Construction
+21,"Mining, Quarrying, and Oil and Gas Extraction",Wyoming,36650,269320,0.136,"Mining, Quarrying, and Oil and Gas Extraction"
+44,Retail Trade,Wyoming,31850,269320,0.118,Retail Trade
+48,Transportation and Warehousing,Wyoming,20400,269320,0.076,Transportation and Warehousing
